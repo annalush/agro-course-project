@@ -1,0 +1,10 @@
+**/node_modules/
+**/dist/
+**/__pycache__/
+**/*.py[cod]
+**/*.tsbuildinfo
+**/.env
+**/venv/
+**/.venv/
+**/db.sqlite3
+.env
